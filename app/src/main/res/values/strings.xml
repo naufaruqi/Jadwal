@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Jadwal</string>
+    <string name="tab_today">Hari Ini</string>
+    <string name="tab_schedule">Jadwal</string>
+    <string name="tab_tasks">Tugas &amp; PR</string>
+    <string name="tab_presets">Preset</string>
+    <string name="add_schedule">Tambah Jadwal</string>
+    <string name="edit_schedule">Edit Jadwal</string>
+    <string name="delete_schedule">Hapus Jadwal</string>
+    <string name="subject_label">Mata Pelajaran / Kuliah</string>
+    <string name="teacher_label">Guru / Dosen</string>
+    <string name="room_label">Ruang / Kelas</string>
+    <string name="day_label">Hari</string>
+    <string name="start_time_label">Jam Mulai</string>
+    <string name="end_time_label">Jam Selesai</string>
+    <string name="notes_label">Catatan</string>
+    <string name="save">Simpan</string>
+    <string name="cancel">Batal</string>
+    <string name="search_hint">Cari mata pelajaran, guru, atau ruangan…</string>
+    <string name="no_schedule_today">Tidak ada jadwal untuk hari ini.</string>
+    <string name="export_csv">Ekspor CSV</string>
+    <string name="import_csv">Impor CSV</string>
+</resources>

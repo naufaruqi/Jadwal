@@ -1,0 +1,6 @@
+{
+  "name": "Jadwal",
+  "description": "Aplikasi jadwal pelajaran, kuliah, dan agenda harian lengkap dengan pelacak tugas dan ekspor-impor CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
